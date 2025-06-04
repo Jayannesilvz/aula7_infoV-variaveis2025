@@ -1,0 +1,109 @@
+Q.11 Conversão de minutos em segundos:
+     1. Primeiro converter os minutos e segundos. 
+     2. Fazer isso multiplicando a quantidade por 60
+
+Refinando: 
+    Leia os minutos =("Digite a quantidade de minutos: ")
+    Leia os segundos = minutos * 60
+    ("O valor em segundos é:", segundos)
+
+Q.12 Cálculo do novo salário:
+      1. Somar o valor do alimento atual.
+      2. Depois somar o valor fixo. 
+      3. Somar os resultado dos dois valores somados. 
+
+Refinando:
+    Leia salario
+    Leia aumento
+    novo salario = salario + aumento
+    "O novo salário é:", novo salário 
+
+Q.13 Cálculo de juros simples:
+      1. Calcular o montante com juros simples, usando fórmulas.
+      2. Pegar a taxa de juros em porcentagem e transformar em decimal.
+      3. Depois somar e multiplicar esses valores. 
+
+Refinamento: 
+     Leia capital
+     Leia taxa_juros
+     Leia tempo
+     montante = capital + (capital × taxa juros × tempo)
+     "O montante final é:", montante
+
+
+Q.14 Troco de uma compra:
+      1. Leia o valor da compra.
+      2. depois subtrair o valor da compra.
+      3. Depois com a subtração ler o valor que foi pago. 
+
+Refinamento:
+      Leia valor compra
+      Leia valor pago
+      troco = valor pago - valor compra
+     "O troco é:", troco
+
+Q.15 Cálculo do IMC (Índice de Massa Corporal):
+       1. Primeiro Dividir o peso da pessoa (em Kg). 
+       2. Segundo dívida esse valor pelo quadrado da altura (em metros). 
+       3. A divisão final e a fórmula .
+
+Refinamento:
+       Leia peso
+       Leia altura
+       imc = peso / (altura * altura)
+       "O IMC é: ", imc
+
+Q.16 Perímetro de um círculo:
+     1. Indentificar o Pi e o perímetro. 
+     2. Multiplicar o Pi ( π) pelo perímetro. 
+     3. A multiplicação e o resultado.
+      
+Refinamento: 
+     Leia raio
+     pi ← 3.14
+     perimetro ← 2 × pi × raio 
+   "O perímetro do círculo é: ", perimetro
+
+Q.17 Diferença de idades:
+      1. Subtrair a diferença de idades. 
+      2. A subtração e o valor absoluto.
+      3. A subtração e o resultado final.
+
+Refinamento: 
+     Leia idade1
+     Leia idade2
+     diferenca = absolutos (idade1 - idade2)
+     "A diferença entre as idades é:", diferença
+
+Q.18 Média de consumo de combustível:
+       1. Primeiro Para calcular dívida a distcai em (KM). 
+       2. Dividir essa distração pela quantidade de combustível. 
+       3. O valor final e o total do consumo. 
+
+Refinamento:
+     Leia distancia
+     Leia litros
+     consumo = distancia / litros
+     "O consumo médio é: ", consumo, " km/l"
+
+Q.19 Valor a pagar em conta dividida: 
+        1. Dividir o valor total pelo número de pessoas. 
+        2. Fazer a divisão do valor total da conta pelo número de pessoas. 
+        3. O divisão e o resultado final.
+
+Refinamento: 
+      Leia valor total
+      Leia numero pessoas
+      valor por pessoa  valor total / numero pessoas "Cada pessoa deve pagar:", valor por pessoa
+
+Q.20 Cálculo de desconto:
+       1. Descobrir valor de desconto 
+       2. Aplicar porcentagem do valor original.
+       3. Subtrair o valor do desconto do preço original. 
+
+Refinamento:
+      Leia valor produto
+      Leia percentual desconto
+      desconto valor produto × percentua de desconto / 100
+      valor final = valor produto - desconto
+      "O valor com desconto é:", valor final
